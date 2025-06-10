@@ -6,7 +6,7 @@ Aquest repositori conté el codi font en R (Quarto) del projecte final de l’as
 
 - `gmp.qmd`: codi font complet.
 - `scale-image1-min-2048x420.png`: Imatge emprada extreta de l'article original del [MHQ](https://mental.jmir.org/2020/7/e17935/)
-- Visualitzacions publicades a: [RPubs](https://rpubs.com/MereDiver/mhq_explore)
+- Visualitzacions publicades a [RPubs](https://rpubs.com/MereDiver/mhq_explore)
 
 ## Dades
 
