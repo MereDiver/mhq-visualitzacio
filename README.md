@@ -10,7 +10,7 @@ Aquest repositori conté el codi font en R (Quarto) del projecte final de l’as
 
 ## Dades
 
-El conjunt de dades complet (500 MB), extretes del [Global Mind Project](https://sapienlabs.org/global-mind-project/) , està disponible aquí per a membres de la UOC:  
+El conjunt de dades complet (500 MB), extretes del [Global Mind Project],(https://sapienlabs.org/global-mind-project/), està disponible aquí per a membres de la UOC:  
 [Descarregar dades](https://drive.google.com/file/d/1XcbpNMpkLiEXCtViUTgUp6fHixL9ScHf/view?usp=drive_link)
 
 ## Autor
